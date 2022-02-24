@@ -1,0 +1,12 @@
+.galleryBox{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    row-gap: 2rem;
+}
+
+.gallerySearch{
+    width: 20%;
+    margin: 0  0 2rem 2rem;
+    align-items: center;
+}
